@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-#### Technologies:
-- ☕ Java 
-- 🏝 Kotlin 
-- 🥾 Spring Boot
-- ⚛ Spring WebFlux 
-
 <!--
 **MatveyKarachun/matveykarachun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
